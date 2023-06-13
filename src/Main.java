@@ -1,9 +1,9 @@
-import Builder.Calzone;
-import Builder.NutritionFacts;
-import Builder.NyPizza;
+import chapter2.Builder.Calzone;
+import chapter2.Builder.NutritionFacts;
+import chapter2.Builder.NyPizza;
 
-import static Builder.NyPizza.Size.SMALL;
-import static Builder.Pizza.Topping.*;
+import static chapter2.Builder.NyPizza.Size.SMALL;
+import static chapter2.Builder.Pizza.Topping.*;
 
 public class Main {
     public static void main(String[] args) {

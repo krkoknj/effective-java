@@ -1,4 +1,4 @@
-package Builder;
+package chapter2.Builder;
 
 public class NutritionFacts {
     
